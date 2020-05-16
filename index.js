@@ -15,11 +15,11 @@ const Discord = require('discord.js');
 const client = new Discord.Client()
 const mysql = require('mysql');
 const prefix = ">";
-const ownerID = "567694683300691989";
-const ownerBot = "329731644099657729";
+const ownerID = "672167231135809594";
+const ownerBot = "672167231135809594";
 const CrabbyGay = "315925208693342209";
 const BuyerID = '665255205092458516';
-const ServerID = '607050158336638976';
+const ServerID = '710553049453559851';
 
   //if(message.author.id !== ownerID) return;
 client.login(process.env.TOKEN);
